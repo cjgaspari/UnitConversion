@@ -9,7 +9,12 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("This is the ContentView controller. It will be replaced when an item on the sidebar is clicked. Figure out why the iPhone does not see this view.")
+        VStack {
+            Text("This is the ContentView controller.")
+            Text("It will be replaced when an item on the sidebar is clicked.")
+            Text("Figure out why the iPhone does not see this view.")
+        }
+        
     }
 }
 
