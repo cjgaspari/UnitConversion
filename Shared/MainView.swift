@@ -18,6 +18,9 @@ struct MainView: View {
                 NavigationLink(destination: LengthConversionView()) {
                     Label("Length", systemImage: "ruler")
                 }
+                NavigationLink(destination: WeSplitView()) {
+                    Label("Check", systemImage: "signature")
+                }
             }
         }
         .navigationTitle("Convert")

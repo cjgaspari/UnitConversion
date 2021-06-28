@@ -19,6 +19,8 @@
 		84AB84D226894BC200EAD613 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AB84D026894BC200EAD613 /* MainView.swift */; };
 		84AB84D426894C9600EAD613 /* LengthConversionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AB84D326894C9600EAD613 /* LengthConversionView.swift */; };
 		84AB84D526894C9600EAD613 /* LengthConversionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AB84D326894C9600EAD613 /* LengthConversionView.swift */; };
+		84AB84D82689616500EAD613 /* WeSplitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AB84D72689616500EAD613 /* WeSplitView.swift */; };
+		84AB84D92689616500EAD613 /* WeSplitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AB84D72689616500EAD613 /* WeSplitView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +35,7 @@
 		84AB84CD2689477800EAD613 /* TemperatureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemperatureView.swift; sourceTree = "<group>"; };
 		84AB84D026894BC200EAD613 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		84AB84D326894C9600EAD613 /* LengthConversionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthConversionView.swift; sourceTree = "<group>"; };
+		84AB84D72689616500EAD613 /* WeSplitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSplitView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +109,7 @@
 			children = (
 				84AB84CD2689477800EAD613 /* TemperatureView.swift */,
 				84AB84D326894C9600EAD613 /* LengthConversionView.swift */,
+				84AB84D72689616500EAD613 /* WeSplitView.swift */,
 			);
 			path = ConversionViews;
 			sourceTree = "<group>";
@@ -210,6 +214,7 @@
 				84AB84D426894C9600EAD613 /* LengthConversionView.swift in Sources */,
 				84AB84C12689450700EAD613 /* ContentView.swift in Sources */,
 				84AB84D126894BC200EAD613 /* MainView.swift in Sources */,
+				84AB84D82689616500EAD613 /* WeSplitView.swift in Sources */,
 				84AB84BF2689450700EAD613 /* UnitConversionApp.swift in Sources */,
 				84AB84CE2689477800EAD613 /* TemperatureView.swift in Sources */,
 			);
@@ -222,6 +227,7 @@
 				84AB84D526894C9600EAD613 /* LengthConversionView.swift in Sources */,
 				84AB84C22689450700EAD613 /* ContentView.swift in Sources */,
 				84AB84D226894BC200EAD613 /* MainView.swift in Sources */,
+				84AB84D92689616500EAD613 /* WeSplitView.swift in Sources */,
 				84AB84C02689450700EAD613 /* UnitConversionApp.swift in Sources */,
 				84AB84CF2689477800EAD613 /* TemperatureView.swift in Sources */,
 			);
